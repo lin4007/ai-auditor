@@ -1,3 +1,3 @@
-    Version 2.0 adds the ability to input AI-generated suggestions on the web interface, offering greater flexibility in suggestion input without needing to embed them in the program. It also provides a comparative display of responses from a large AI model.
-    
-    Added the function to download audit reports
+Version 2.0 added the web-based input feature for AI prompt words, allowing for greater freedom in input rather than embedding them in the program. It also compares and displays the responses from AI large models.
+Added the download audit report feature
+streamlit run app.py Enter to run the program
